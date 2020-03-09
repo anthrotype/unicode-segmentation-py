@@ -4,8 +4,3 @@
 build
 dist
 *.egg-info
-
-# rust
-/target/
-Cargo.lock
-**/*.rs.bk
