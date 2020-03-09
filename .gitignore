@@ -1,5 +1,11 @@
+# python
 *.py[cd]
 *.so
 build
 dist
 *.egg-info
+
+# rust
+/target/
+Cargo.lock
+**/*.rs.bk
