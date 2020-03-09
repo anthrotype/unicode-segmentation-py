@@ -1,0 +1,3 @@
+[submodule "unicode-segmentation"]
+	path = unicode-segmentation
+	url = https://github.com/unicode-rs/unicode-segmentation
